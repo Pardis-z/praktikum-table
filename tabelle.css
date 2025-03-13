@@ -3,31 +3,31 @@
     color: red;
     background-color: yellow;
     }
-#F-table{
-    width: 700%;
+#F-tabelle{
+    width: 100%;
     border: 1px solid #eee;
     max-width: 500px;
     border-collapse: collapse;
     margin: 0 auto;
 }
-#F-table th{
+#F-tabelle th{
     background-color: #218c74;
     color: #fff;
     text-align: left;
     padding: 10px;
     font-size: 21px;
 }
-#F-table tr td{
+#F-tabelle tr td{
     padding: 7px;
     border: 1px solid #eee;
     font-size: 12px;
 }
 
 
-#F-table tr:nth-child(2n){
+#F-tabelle tr:nth-child(2n){
     background-color: #f2f2f2;
 }
-#F-table a {
- color: blue !important;
- text-decoration: underline !important;
+#F-tabelle a {
+    color: blue;
+    text-decoration: underline;
 }
